@@ -3,6 +3,8 @@
 
 Me chamo Gilmar Cruz Silva sou formado em Análise e Desenvolvimento de Sistemas moro na cidade de São Paulo. Sou apaixonado por tecnologia e gosto da praticidade que ela trás a nossa vida
 
+
+
 >>**Citações:**
 > "**_Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir._**"
 Steve Jobs
