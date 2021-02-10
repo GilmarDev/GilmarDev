@@ -4,6 +4,7 @@
 Me chamo Gilmar Cruz Silva sou formado em Análise e Desenvolvimento de Sistemas moro na cidade de São Paulo capital 
 
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilmar-cruz-silva/)](https://www.linkedin.com/in/gilmar-cruz-silva/)
+ [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:gilmarcs1@hotmail.com)](mailto:gilmarcs1@hotmail.com)
 ## Tecnologias
 
 
