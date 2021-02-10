@@ -3,8 +3,8 @@
 
 Me chamo Gilmar Cruz Silva sou formado em Análise e Desenvolvimento de Sistemas moro na cidade de São Paulo. Sou apaixonado por tecnologia e gosto da praticidade que ela trás a nossa vida
 
->>**"Citações"**
-> **_Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir._**
+>>**Citações:**
+> "**_Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir._**"
 Steve Jobs
 
  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilmar-cruz-silva/)](https://www.linkedin.com/in/gilmar-cruz-silva/)
