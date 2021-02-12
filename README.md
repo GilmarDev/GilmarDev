@@ -1,5 +1,3 @@
-_Desenvolvedor Java jr._
-
 ### Olá seja muito bem-vindo !
 
 
