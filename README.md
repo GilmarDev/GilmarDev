@@ -14,9 +14,7 @@ Me chamo Gilmar Cruz Silva sou formado em Análise e Desenvolvimento de Sistemas
 <h3 align="left">Caso queira entrar em contato comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gilmar-cruz-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gilmar-cruz-silva" height="30" width="40" /></a>
-  
-  <a href="https://gilmarcs1@hotmail.com" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='website' height="30" width="40" /></a>
-  </p>
+
   
   
 ## Tecnologias
