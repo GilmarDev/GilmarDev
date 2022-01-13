@@ -17,6 +17,7 @@ Me chamo Gilmar Cruz Silva sou formado em Análise e Desenvolvimento de Sistemas
 <img align="center"src="https://icongr.am/entypo/email.svg?size=121&color=currentColor=white&link=gilmarcs1@hotmail.com")](mailto:gilmarcs1@hotmail.com) alt="email" height="30" width="40"/>
 
   
+ <a href = "mailto:gilmarcs1@hotmail.com" target="blank"><img width="30" align="center" src="https://icongr.am/entypo/email.svg?size=121&color=currentColor=white&link=gilmarcs1@hotmail.com"></a>
   
 ## Tecnologias
 
